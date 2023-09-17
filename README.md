@@ -7,7 +7,7 @@ Crafted during the RocketSeat NLW AI event, this cutting-edge application empowe
 Watch the video below to see the AI Video Content Optimization in action:
 
 <video width="640" height="260" controls>
-  <source src="./video_api_funcionando_linkedIn.mp4" type="video/mp4">  
+  <source src="https://www.linkedin.com/posts/taiz-alves-664a081_nlwai-inteligenciaartificial-developer-activity-7108995339394674688-X_1y?utm_source=share&utm_medium=member_desktop" type="video/mp4">  
 </video>
 
 
