@@ -6,9 +6,8 @@ Crafted during the RocketSeat NLW AI event, this cutting-edge application empowe
 
 Watch the video below to see the AI Video Content Optimization in action:
 
-<video width="640" height="360" controls>
-  <source src="./video_api_funcionando_linkedIn.mp4" type="video/mp4">
-  
+<video width="640" height="260" controls>
+  <source src="./video_api_funcionando_linkedIn.mp4" type="video/mp4">  
 </video>
 
 
